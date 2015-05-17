@@ -1,0 +1,24 @@
+################################
+#                              #
+#     OCSell Configuration     #
+#                              #
+################################
+
+# Setting Sell Groups
+
+# Note: the type node uses item ids.
+ 
+groups:
+  init:
+    item1:
+      type: 1
+      amount: 2
+    item2:
+      type: 265
+      amount: 10
+    item3:
+      type: 263
+      amount: 5
+    item4:
+      type: 15
+      amount: 5

@@ -1,0 +1,23 @@
+name: OCSell
+main: net.jjstardev.ocsell.OCSell
+version: 1.0
+
+depend: [Vault]
+
+commands:
+  ocsell:
+    description: Base command for OCSell plugin.
+    usage: 'Nooooooooope. Just the wrong command. Try /<command> for a list of commands.'
+    
+permissions:
+  ocsell.*:
+    description: Gives access to all OCSell functions.
+    children:
+      ocsell.create: true
+      ocsell.help: true
+  ocsell.create:
+    description: Allows creation of OCSell signs.
+    default: op
+  ocsell.help:
+    desctription: Allows access to the /ocsell command.
+    default: true
