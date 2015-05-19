@@ -1,4 +1,4 @@
-package net.thereturningvoid.ocsell.commands;
+package net.jjstardev.ocsell.commands;
 
 import java.util.HashMap;
 

@@ -1,4 +1,4 @@
-package net.thereturningvoid.ocsell.util;
+package net.jjstardev.ocsell.util;
 
 import java.util.Collection;
 import java.util.List;

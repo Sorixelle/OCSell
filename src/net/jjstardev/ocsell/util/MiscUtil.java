@@ -1,4 +1,4 @@
-package net.thereturningvoid.ocsell.util;
+package net.jjstardev.ocsell.util;
 
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
