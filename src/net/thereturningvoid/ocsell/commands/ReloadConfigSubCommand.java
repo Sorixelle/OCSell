@@ -1,6 +1,6 @@
-package net.jjstardev.ocsell.commands;
+package net.thereturningvoid.ocsell.commands;
 
-import net.jjstardev.ocsell.OCSell;
+import net.thereturningvoid.ocsell.OCSell;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;

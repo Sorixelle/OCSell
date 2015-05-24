@@ -1,14 +1,14 @@
-package net.jjstardev.ocsell;
+package net.thereturningvoid.ocsell;
 
 import java.io.File;
 import java.util.logging.Logger;
 
-import net.jjstardev.ocsell.commands.CommandHandler;
-import net.jjstardev.ocsell.commands.DebugSubCommand;
-import net.jjstardev.ocsell.commands.OCSellCommand;
-import net.jjstardev.ocsell.commands.RegenConfigSubCommand;
-import net.jjstardev.ocsell.commands.ReloadConfigSubCommand;
-import net.jjstardev.ocsell.listeners.SignListener;
+import net.thereturningvoid.ocsell.commands.CommandHandler;
+import net.thereturningvoid.ocsell.commands.DebugSubCommand;
+import net.thereturningvoid.ocsell.commands.OCSellCommand;
+import net.thereturningvoid.ocsell.commands.RegenConfigSubCommand;
+import net.thereturningvoid.ocsell.commands.ReloadConfigSubCommand;
+import net.thereturningvoid.ocsell.listeners.SignListener;
 import net.milkbowl.vault.economy.Economy;
 import net.milkbowl.vault.permission.Permission;
 

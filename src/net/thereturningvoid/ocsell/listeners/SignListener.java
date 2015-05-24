@@ -1,11 +1,11 @@
-package net.jjstardev.ocsell.listeners;
+package net.thereturningvoid.ocsell.listeners;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import net.jjstardev.ocsell.OCSell;
-import net.jjstardev.ocsell.util.InventoryUtil;
-import net.jjstardev.ocsell.util.MiscUtil;
+import net.thereturningvoid.ocsell.OCSell;
+import net.thereturningvoid.ocsell.util.InventoryUtil;
+import net.thereturningvoid.ocsell.util.MiscUtil;
 import net.milkbowl.vault.economy.Economy;
 import net.milkbowl.vault.economy.EconomyResponse;
 

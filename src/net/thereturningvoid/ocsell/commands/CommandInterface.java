@@ -1,4 +1,4 @@
-package net.jjstardev.ocsell.commands;
+package net.thereturningvoid.ocsell.commands;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
